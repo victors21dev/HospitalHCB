@@ -11,8 +11,8 @@ body{
 }
 .rotacaoEtiqueta{
     position: absolute;
-    top: calc(400px);
-    padding-left: 400px;
+    top: calc(268px);
+    padding-left: 380px;
     left: -620px;
     transform: translate(-50%, 50%);
     transform: rotate(90deg);
