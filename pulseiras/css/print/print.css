@@ -37,7 +37,7 @@ ul{
 }
 .areaImpressao{
     display: grid;
-    grid-template-columns: 50px auto;
+    grid-template-columns: 140px auto;
 }
 .fontSize{
     font-size: 12px;
